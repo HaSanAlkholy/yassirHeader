@@ -1,5 +1,3 @@
-var wow = new WOW();
-wow.init();
 
 // parallaxInstance.friction(0.2, 0.2);
 $(document).ready(function () {
